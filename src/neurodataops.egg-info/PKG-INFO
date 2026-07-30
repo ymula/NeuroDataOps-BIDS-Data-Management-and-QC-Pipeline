@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: neurodataops
+Version: 0.1.0
+Summary: BIDS research data management and quality-control portfolio project
+Requires-Python: >=3.10
+Requires-Dist: pandas<3.0,>=2.2
+Requires-Dist: python-dotenv<2.0,>=1.0
+Requires-Dist: PyYAML<7.0,>=6.0
+Requires-Dist: nibabel<6.0,>=5.2

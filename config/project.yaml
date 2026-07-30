@@ -1,0 +1,19 @@
+project:
+  name: NeuroDataOps
+  dataset_accession: ds008477
+  expected_sessions:
+    - ses-s0
+    - ses-s1
+    - ses-s5
+    - ses-s10
+  allowed_extensions:
+    - .json
+    - .tsv
+    - .nii
+    - .gz
+    - .bval
+    - .bvec
+  required_root_files:
+    - dataset_description.json
+    - participants.tsv
+    - participants.json

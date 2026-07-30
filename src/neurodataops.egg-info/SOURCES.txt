@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/neurodataops/__init__.py
+src/neurodataops/database.py
+src/neurodataops/inventory.py
+src/neurodataops/pipeline.py
+src/neurodataops/qc.py
+src/neurodataops.egg-info/PKG-INFO
+src/neurodataops.egg-info/SOURCES.txt
+src/neurodataops.egg-info/dependency_links.txt
+src/neurodataops.egg-info/requires.txt
+src/neurodataops.egg-info/top_level.txt
+tests/test_core.py

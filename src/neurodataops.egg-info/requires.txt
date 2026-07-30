@@ -1,0 +1,4 @@
+pandas<3.0,>=2.2
+python-dotenv<2.0,>=1.0
+PyYAML<7.0,>=6.0
+nibabel<6.0,>=5.2

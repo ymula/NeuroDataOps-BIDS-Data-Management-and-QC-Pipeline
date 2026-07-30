@@ -1,0 +1,14 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+data/
+*.nii
+*.nii.gz
+*.dcm
+*.zip
+*.db
+.DS_Store
+.vscode/
