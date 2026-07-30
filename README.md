@@ -1,8 +1,7 @@
 # NeuroDataOps: Reproducible BIDS Data Management and QC
 
-A portfolio project demonstrating end-to-end research data management for a longitudinal, multi-site-style neuroimaging program using the public OpenNeuro dataset **ds008477**.
+Project demonstrating end-to-end research data management for a longitudinal, multi-site-style neuroimaging program using the public OpenNeuro dataset **ds008477**.
 
-## Job-aligned capabilities
 
 - BIDS-aware data inventory and metadata harmonization
 - Relational SQLite research database
@@ -162,10 +161,6 @@ git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/neurodataops-bids-qc.git
 git push -u origin main
 ```
-
-## Suggested portfolio description
-
-Built an end-to-end Python research data management platform for a longitudinal BIDS neuroimaging dataset, including metadata harmonization, relational database creation, automated QC audits, FAIR-aligned documentation, provenance manifests, GitHub CI, and SLURM-ready HPC execution.
 
 ## Privacy and compliance note
 
