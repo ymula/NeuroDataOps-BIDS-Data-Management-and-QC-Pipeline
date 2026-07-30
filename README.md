@@ -14,6 +14,17 @@ Project demonstrating end-to-end research data management for a longitudinal, mu
 
 > The raw dataset is not committed to this repository. Store it outside the repo and configure its path through `.env`.
 
+## Dataset
+
+This project is designed to process **any BIDS-compliant neuroimaging dataset**.
+
+For demonstration and portfolio purposes, the pipeline was developed and tested using the publicly available **OpenNeuro dataset ds008477**. The dataset is **not included** in this repository.
+
+**OpenNeuro Dataset:** https://openneuro.org/datasets/ds008477
+
+The focus of this repository is on building reproducible **research data management**, **metadata harmonization**, **quality control**, and **validation workflows**, rather than generating scientific findings.
+
+> **Acknowledgment:** All credit for the dataset belongs to the original study investigators and the OpenNeuro contributors. This repository contains only the pipeline and supporting code; no research data are redistributed.
 ## Architecture
 
 ```text
